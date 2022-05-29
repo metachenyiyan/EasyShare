@@ -1,0 +1,4 @@
+item,price,yiyan_paid,qiang_paid,jiahui_paid,yiyan_received,qiang_received,jiahui_received
+a,0.4,1,,,,1,1
+b,0,1,1,1,1,30,30
+c,0.5,,1,,,1,
